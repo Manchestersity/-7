@@ -1,0 +1,5 @@
+#include <stdio.h>
+#include <string.h>
+int indexOf(char[] text, char[] word) {
+ int index = 0;
+}
